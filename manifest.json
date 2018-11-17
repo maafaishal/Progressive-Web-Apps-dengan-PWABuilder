@@ -1,0 +1,114 @@
+{
+    "name": "PWA with PWABuilder",
+    "short_name": "My PWA",
+    "icons": [
+        {
+            "src": "/images/4a019cf6-29c2-8e78-8647-07fd6cde0610.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/a12a4495-8763-6e5a-f717-181a9b238efc.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6f2a3638-01e1-9512-005a-2ff7bf186f17.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c9012c39-01ec-c55c-3045-7a4c3abd03f9.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/c9291bcd-8f67-fd85-eb39-f797f0dfa528.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/884782d0-8225-9e6e-542e-e151ec17f3ae.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8cdd4bfc-b86b-f45f-7658-d3270987471f.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e410f4c3-51fd-643f-6920-3212b239ec52.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2f1fc4bf-e1cc-4cb7-81c5-f1376f2a212b.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0bcf69ac-fd11-e4ea-bfe9-b87595cf0016.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/fac955c9-e401-c39c-7fb5-38bc72434d72.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ee98e1f5-206d-af69-eb94-e433996d035c.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ab4c184c-40f1-9ffc-a049-446f4ea85570.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7c0b986c-df11-824c-0274-8a3c6dfc670b.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2a038ef8-7acf-e869-04ae-996fa2c481ec.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0632adf8-1e10-595c-4f14-8a7df0bf9ddb.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2446b7c1-1c1c-b6f6-f87b-ab1242472b96.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/4fee92c3-512a-373b-4a08-6cf1a394b9bd.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#b30143",
+    "background_color": "#ffffff",
+    "gcm_sender_id": "103953800507",
+    "related_applications": [
+        {
+            "platform": "play",
+            "id": "com.bukalapak.android",
+            "url": "https://play.google.com/store/apps/details?id=com.bukalapak.android"
+        },
+        {
+            "platform": "itunes",
+            "url": "https://itunes.apple.com/app/id1003169137"
+        }
+    ],
+    "lang": "",
+    "description": "Tutorial make Progressive Web Apps with PWABuilder"
+}
